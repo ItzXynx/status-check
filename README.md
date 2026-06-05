@@ -5,3 +5,4 @@ check status codes for multiple urls
 ```
 python main.py https://google.com https://discord.com
 ```
+
