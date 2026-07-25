@@ -18,3 +18,4 @@ if __name__ == "__main__":
         for url, status in ex.map(check, urls):
             ok = "ok" if status < 400 else "err"
             print(f"  {status} {ok} {url}")
+# updated
